@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Android Apps.
+- 🔭 I’m currently working on Android.
 - 🌱 I’m currently learning Kotlin.
 
 
