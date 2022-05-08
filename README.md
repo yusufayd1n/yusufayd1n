@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Android.
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning Jetpack Compose and MVVM.
 
 
 ### Contact Me:
